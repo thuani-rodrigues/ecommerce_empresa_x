@@ -20,5 +20,8 @@ __testando _um_, dois, tres__
 ##### Lista de prioridades
 
 1. arroz 
+    1. com milho
+    2. amarelo
 2. feijão
+    1. com calabresa
 3. carne
