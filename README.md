@@ -25,3 +25,8 @@ __testando _um_, dois, tres__
 2. feijão
     1. com calabresa
 3. carne
+
+
+### Imagem
+
+![foto aleatoria](img/img.jpg)
