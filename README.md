@@ -16,3 +16,9 @@ __testando _um_, dois, tres__
 * java
 * php
 * css
+
+##### Lista de prioridades
+
+1. arroz 
+2. feijão
+3. carne
