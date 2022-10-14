@@ -3,4 +3,8 @@ Este é um **e-commerce** para *empresa x*, feito em php e MySQL
 
 ## funiconalidades 
 
-home banner, catalagos, checkout
+_home **banner**, catalagos, checkout_
+
+### teste
+
+__testando _um_, dois, tres__
