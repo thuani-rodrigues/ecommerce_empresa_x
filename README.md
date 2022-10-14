@@ -8,3 +8,11 @@ _home **banner**, catalagos, checkout_
 ### teste
 
 __testando _um_, dois, tres__
+
+
+#### Lista de linguagem
+
+* html
+* java
+* php
+* css
